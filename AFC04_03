@@ -18,7 +18,7 @@ int main()
     }
     else
     {
-        printf("Opção inválida");
+        printf("OpÃ§Ã£o invÃ¡lida");
     }
     return 0;
 }
