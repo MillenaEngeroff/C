@@ -18,7 +18,7 @@ int main()
    }
    else if (idade > 18)
    {
-       printf("Categoria sênior");
+       printf("Categoria sÃªnior");
    }
 
     return 0;
