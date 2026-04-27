@@ -14,7 +14,7 @@ int main()
     scanf("%d", &seg);
     segTotal = hora * 3600 + min * 60 + seg;
 
-    printf("Os segundos s„o: %d", segTotal);
+    printf("Os segundos s√£o: %d", segTotal);
 
 
 
